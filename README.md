@@ -51,7 +51,9 @@ A2Z
 DepEd TV
 Vegas Life TV
 FilAm TV Network
-```
+GTV
+One PH
+RPTV
 
 LINK TO IPTV M3U:
 ```
